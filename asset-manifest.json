@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/profile/static/css/main.4651e75e.chunk.css",
-    "main.js": "/profile/static/js/main.c9334b5e.chunk.js",
-    "main.js.map": "/profile/static/js/main.c9334b5e.chunk.js.map",
+    "main.js": "/profile/static/js/main.0f4d6bab.chunk.js",
+    "main.js.map": "/profile/static/js/main.0f4d6bab.chunk.js.map",
     "runtime-main.js": "/profile/static/js/runtime-main.d8604472.js",
     "runtime-main.js.map": "/profile/static/js/runtime-main.d8604472.js.map",
     "static/js/2.4d7be2f1.chunk.js": "/profile/static/js/2.4d7be2f1.chunk.js",
@@ -23,6 +23,7 @@
     "static/media/maxresdefault.01d740a4.jpg": "/profile/static/media/maxresdefault.01d740a4.jpg",
     "static/media/menu3.adb52696.png": "/profile/static/media/menu3.adb52696.png",
     "static/media/mysql.6e42b2a0.png": "/profile/static/media/mysql.6e42b2a0.png",
+    "static/media/php.0a564540.png": "/profile/static/media/php.0a564540.png",
     "static/media/pybot.10924a20.png": "/profile/static/media/pybot.10924a20.png",
     "static/media/pythonimg.ecfb4e6f.png": "/profile/static/media/pythonimg.ecfb4e6f.png",
     "static/media/yt1.f810a4fa.png": "/profile/static/media/yt1.f810a4fa.png"
@@ -31,6 +32,6 @@
     "static/js/runtime-main.d8604472.js",
     "static/js/2.4d7be2f1.chunk.js",
     "static/css/main.4651e75e.chunk.css",
-    "static/js/main.c9334b5e.chunk.js"
+    "static/js/main.0f4d6bab.chunk.js"
   ]
 }
